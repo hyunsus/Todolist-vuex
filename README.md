@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-todo
 
 > A Vue.js project
@@ -16,3 +17,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Todolist-vuex
+>>>>>>> b6ef04fe3d02962a105abccb4d767ca01123cbdc
