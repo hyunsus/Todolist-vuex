@@ -1,22 +1,9 @@
-<<<<<<< HEAD
-# vue-todo
+## 참고 
+1. https://github.com/ayaysir/vue-todo
+2. https://joshua1988.github.io/web-development/vuejs/vuex-start/#%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0
 
-> A Vue.js project
+# Vuex 설명
 
-## Build Setup
+# 기능 설명
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# Todolist-vuex
->>>>>>> b6ef04fe3d02962a105abccb4d767ca01123cbdc
+# 상세 설명
